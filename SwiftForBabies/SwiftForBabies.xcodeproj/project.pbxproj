@@ -309,6 +309,7 @@
 			baseConfigurationReference = 7F2F612D06B91573B749F9FD /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Sam Tarakajian (TNAZXTQQ8F)";
 				INFOPLIST_FILE = SwiftForBabies/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.girlfriends.SwiftForBabies;
@@ -321,6 +322,7 @@
 			baseConfigurationReference = 242AC56EE7DE6A499FB800AE /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Sam Tarakajian (TNAZXTQQ8F)";
 				INFOPLIST_FILE = SwiftForBabies/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.girlfriends.SwiftForBabies;
